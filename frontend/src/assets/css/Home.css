@@ -1,0 +1,27 @@
+.jumbotron{
+    margin-bottom: 0;
+    background-color: gray;
+
+}
+
+.myBtn{
+    margin:5px;
+}
+
+.student{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.colorbackground{
+    background-color: gray;
+}
+
+Button.myButton1{
+    width: 100%;
+}
+
+::placeholder{
+    text-align: center;
+}
